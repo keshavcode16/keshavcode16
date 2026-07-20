@@ -21,7 +21,7 @@ Databricks. Focused on delivering reliable backend solutions and advancing caree
 
 ## Skills
 - *Languages:* 🐍 Python, 🐚 Bash scripting
-- *Tools/Frameworks:* 🌐 Django, 🌐 Django Rest Framework, 🐼 Pandas, 🔢 NumPy, 🍀 Flask, FastAPI
+- *Tools/Frameworks:* 🌐 Django, 🌐 Django Rest Framework, Azure Databricks,🍀 Flask, FastAPI
 - *Database:* 📊 NoSQL – Azure COSMOS DB (Mongo Type), 🐘 PostgreSQL
 - *Operating Systems:* 💻 Linux
 - *Cloud:* ☁️ Azure
