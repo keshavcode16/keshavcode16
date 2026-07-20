@@ -6,7 +6,6 @@
 - *📧 Email:* keshavwork231@gmail.com
 - *🐙 GitHub:* [keshavcode16](https://github.com/keshavcode16)
 - *🔗 LinkedIn:* [keshav-kumar231](https://www.linkedin.com/in/keshav-kumar231/)
-- *💬 Skype:* [live:.cid.be1f2dd3f1cc9fc](https://join.skype.com/invite/pQK82nogu9xD)
 - *💻 LeetCode:* [keshavk23142](https://leetcode.com/keshavk23142/)
 
 ## Summary
