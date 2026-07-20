@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @keshav.
 - 👀 Looking for companies to work with them.
-- 🌱 I’m working with Python, Django, Django rest frameworks, AWS, Lambda, and Flask.
+- 🌱 I’m working Backend Python Developer with tools/frameworks like Django rest frameworks, FastAPI, Azure Databricks etc.
 
 ## Contact Information
 - *📧 Email:* keshavwork231@gmail.com
