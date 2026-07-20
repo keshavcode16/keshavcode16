@@ -16,7 +16,7 @@ Databricks. Focused on delivering reliable backend solutions and advancing caree
 
 ## Education
 - Bachelor of Technology(I.T)
-- Machine Learning Certification
+- Backend Developer Certification
 - SQL Certification 
 
 ## Skills
