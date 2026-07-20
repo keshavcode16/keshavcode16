@@ -3,7 +3,6 @@
 - 🌱 I’m working with Python, Django, Django rest frameworks, AWS, Lambda, and Flask.
 
 ## Contact Information
-- *📱 Phone:* +91-9877891071
 - *📧 Email:* keshavwork231@gmail.com
 - *🐙 GitHub:* [keshavcode16](https://github.com/keshavcode16)
 - *🔗 LinkedIn:* [keshav-kumar231](https://www.linkedin.com/in/keshav-kumar231/)
@@ -11,7 +10,9 @@
 - *💻 LeetCode:* [keshavk23142](https://leetcode.com/keshavk23142/)
 
 ## Summary
-I am a certified Full-Stack Developer with expertise in a wide range of technologies, including Python, Django, JavaScript, jQuery, Ajax, HTML5, CSS3, Bootstrap, Bash Scripting, PostgreSQL, MongoDB, Firebase DB, Beautifulsoup, Selenium, Rest API Development, React.js, and SQS Server Hosting on Azure, IIS, and AWS platforms. Strong analytical and problem-solving skills, with a solid understanding of UNIX/Linux, SQL, and Shell scripting. Proven experience in Python development, file-handling concepts, infrastructure, and UNIX application troubleshooting.
+Creative Backend Python Developer with 5+ years of experience designing and maintaining scalable,
+high‑performance systems. Proficient in Django, Flask, and FastAPI, with exposure to ETL pipelines using
+Databricks. Focused on delivering reliable backend solutions and advancing career growth as a backend developer.
 
 ## Education
 - Bachelor of Technology(I.T)
@@ -19,11 +20,11 @@ I am a certified Full-Stack Developer with expertise in a wide range of technolo
 - SQL Certification 
 
 ## Skills
-- *Languages:* 🐍 Python, 🐚 Bash scripting, 🌐 JavaScript
+- *Languages:* 🐍 Python, 🐚 Bash scripting
 - *Tools/Frameworks:* 🌐 Django, 🌐 Django Rest Framework, 🐼 Pandas, 🔢 NumPy, 🍀 Flask, FastAPI
-- *Database:* 📊 NoSQL – MongoDB, 🔥 Firebase, 🐘 PostgreSQL
+- *Database:* 📊 NoSQL – Azure COSMOS DB (Mongo Type), 🐘 PostgreSQL
 - *Operating Systems:* 💻 Linux
-- *Cloud:* ☁️ AWS
+- *Cloud:* ☁️ Azure
 - *Application Scaling:* 🐳 Docker
 - *Messaging/Queueing:* ☁️ AWS SQS, 🌿 Celery
 - *Services:* ☁️ CloudWatch, 🧩 SAM (Serverless Application Model), λ Lambda, 🚪 API Gateway
